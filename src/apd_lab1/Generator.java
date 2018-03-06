@@ -20,7 +20,4 @@ public class Generator {
         int x=randomGenerator.nextInt(max);
         return (float)x;
     }
-      public int seedvalue() {
-        return 0;
-    }
 }
